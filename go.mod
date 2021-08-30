@@ -1,4 +1,4 @@
-module github.com/Goral64/arduino-cli
+module github.com/arduino/arduino-cli
 
 go 1.14
 
